@@ -1,6 +1,6 @@
 ## Hi there 👋
 About me 
-My name is nisha . I beling from faxilka. I have to passed my 12 from meritorious school ferozpur.Now I pursue in b.tech in electronics at gndec ludhina.
+My name is nisha . I belong from fazilka. I have to passed my 12 from meritorious school ferozpur.Now I pursue in b.tech in electronics at gndec ludhina.
 <!--
 **nishacoder-2007/nishacoder-2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
